@@ -1,0 +1,20 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	extra_claim_chunks: 0
+	extra_force_load_chunks: 0
+	force_load_members: ["05d85ce5-bf1d-4297-b484-19f2deec5e3b"]
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 257, z: 1, time: 1667583330882L, force_loaded: 1667583332495L }
+			{ x: 259, z: 1, time: 1667583329003L, force_loaded: 1667583333867L }
+			{ x: 258, z: 1, time: 1667583330100L, force_loaded: 1667583333282L }
+		]
+		"allthemodium:the_other": [
+			{ x: 37, z: 29, time: 1666607244441L }
+			{ x: 36, z: 28, time: 1666607247327L }
+			{ x: 36, z: 29, time: 1666607247079L }
+			{ x: 37, z: 28, time: 1666607244946L }
+		]
+	}
+}

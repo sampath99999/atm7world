@@ -1,0 +1,20 @@
+{
+	id: "05d85ce5-bf1d-4297-b484-19f2deec5e3b"
+	type: "player"
+	player_name: "sam"
+	ranks: {
+		05d85ce5-bf1d-4297-b484-19f2deec5e3b: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "sam"
+		"ftbteams:color": "#FF59DD"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
